@@ -4,7 +4,8 @@ public class TestController {
 	public void insert() {
 		System.out.println("hahaha");
 	}
-	public void select() {
-		System.out.println("select 입니다");
+	
+	public void aa(){
+		System.out.println("영우가 추가함");
 	}
 }
